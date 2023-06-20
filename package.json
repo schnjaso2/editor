@@ -51,7 +51,7 @@
     "react-color": "^2.14.1",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.3.2",
-    "react-file-reader-input": "^1.1.4",
+    "react-file-reader-input": "^2.0.0",
     "react-height": "^3.0.0",
     "react-icon-base": "^2.1.1",
     "react-icons": "^2.2.7",
